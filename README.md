@@ -43,7 +43,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 ```
 
 ## Deployment
-The API is publicly accessible at: [https://hng-stage0-86go.onrender.com](https://hng.tech/hire/nodejs-developers)
+The API is publicly accessible at: [https://hng-stage0-86go.onrender.com](https://hng-stage0-86go.onrender.com)
  
 
 ## Backlink
