@@ -5,9 +5,9 @@ const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(compression()); // Compress responses to reduce payload size
-app.use(cors()); // Enable CORS for cross-origin requests
-app.use(express.json()); // Parse incoming JSON requests
+app.use(cors());         // Enable CORS for cross-origin requests
+app.use(express.json()); // Parse incoming JSON requests (if applicable)
+app.use(compression());  // Compress responses to reduce payload size
 
 // Endpoint to Fetch Data
 app.get("/", (req, res) => {
