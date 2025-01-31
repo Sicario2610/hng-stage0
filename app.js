@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
         res.status(200).json({
             email: "abdulbasitabdulrasheed8@gmail.com",
             current_datetime: new Date().toISOString(),
-            github_url: "url"
+            github_url: "https://github.com/Sicario2610/hng-stage0.git"
         });
     } catch (err) {
         console.error("Error fetching data:", err);
