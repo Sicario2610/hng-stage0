@@ -38,7 +38,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 {
   "email": "abdulbasitabdulrasheed8@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo](https://github.com/Sicario2610/hng-stage0.git"
+  "github_url": "https://github.com/Sicario2610/hng-stage0.git"
 }
 ```
 
